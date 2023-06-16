@@ -1,0 +1,16 @@
+
+    {
+        Date: Sat Jun 10 2023 
+        Time: 9:5:42 
+        Label: [DANGER] 
+        Level: error: Cast to number failed for value "01" (type string) at path "year" for model "AcademicSemester"
+    }
+    
+
+    {
+        Date: Sat Jun 10 2023 
+        Time: 9:8:38 
+        Label: [DANGER] 
+        Level: error: Cast to number failed for value "i" (type string) at path "year" for model "AcademicSemester"
+    }
+    

@@ -1,0 +1,285 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\.82090c461d6810c917ffcc131be33b24556ebd2d-audit.json",
+    "files": [
+        {
+            "date": 1685940921793,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-05-10-error.log",
+            "hash": "6ea3d771d211b9895ef4024c3433593cb1b3fe6260a090926386616523a44605"
+        },
+        {
+            "date": 1685944636692,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-05-11-error.log",
+            "hash": "3b0236a8ff535e3d017679e4e1dda8ed0fef14a7b20a4af242d8941db0d2c493"
+        },
+        {
+            "date": 1685945175807,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-05-12-error.log",
+            "hash": "44fe8d02c039a2dc621b09ea679f8013cd0b5c26ee58416650913db40b264021"
+        },
+        {
+            "date": 1686187217175,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-08-07-error.log",
+            "hash": "4e96b1fe072632e7a756adff4a2e41dd532d00438b2dfa9eef32db08b6ce6785"
+        },
+        {
+            "date": 1686190821984,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-08-08-error.log",
+            "hash": "52658d5be640d8b57807458c49db6f1f147c956057b2cd523a06de8c76a67e74"
+        },
+        {
+            "date": 1686199147340,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-08-10-error.log",
+            "hash": "e6914c6a626ac5c7015788ce4eb6b28656b6ddf189b39b6f1d9cb51f9f6def0a"
+        },
+        {
+            "date": 1686278553097,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-09-08-error.log",
+            "hash": "3f95d15ab3c0c7d8dbfd275125b17fe849055a7e7d3764ef0714309e4b92d651"
+        },
+        {
+            "date": 1686284480045,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-09-10-error.log",
+            "hash": "bc78d40df70e8ebe21c2a99340c53aa198622a6b71e8f89b7181e20b1032782f"
+        },
+        {
+            "date": 1686286840172,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-09-11-error.log",
+            "hash": "c7b5a3ad27013ef1d20329c9191a7c7c94a7f13ed1a237986278ca2ce847257d"
+        },
+        {
+            "date": 1686291213379,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-09-12-error.log",
+            "hash": "1ddc16e9704a03028ff19412903f33a11a73460c33aaca8e8a7b7e4e95cd7fcb"
+        },
+        {
+            "date": 1686297995653,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-09-14-error.log",
+            "hash": "2f7af881e720360da676cfc988fba715082e81ddcf7de71333ee9653586865f6"
+        },
+        {
+            "date": 1686302418188,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-09-15-error.log",
+            "hash": "ed5c49213477e9c83b78a34613ad632e365c5a9f3a5e4d943292548b999adf45"
+        },
+        {
+            "date": 1686318635820,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-09-19-error.log",
+            "hash": "730e4b20892831c08f81f74b9395206203957f83d6fe2187631e6a8665e315cf"
+        },
+        {
+            "date": 1686319317498,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-09-20-error.log",
+            "hash": "fd9e2023cec2cef335077d5f65bc10837e9eb112f07bc1680c49627cb3670fb2"
+        },
+        {
+            "date": 1686323283880,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-09-21-error.log",
+            "hash": "8817d055c809f3c41abe24020edb1325e8051a3fbcc58941001a3b2682c5fec5"
+        },
+        {
+            "date": 1686363422443,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-10-08-error.log",
+            "hash": "418be7b2fbdd9bf3c04e4efc12d4b9d2c100d0e3df503c009ed78b38785fa111"
+        },
+        {
+            "date": 1686366095595,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-10-09-error.log",
+            "hash": "8a5de83612511bf2318b06d5e1dc6341d5bc008e727b9dd541c9c60fe9cff729"
+        },
+        {
+            "date": 1686370044287,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-10-10-error.log",
+            "hash": "e37f9498af1b5f766a571fe69219214479dd439dc18e8e83fa311252c8d13716"
+        },
+        {
+            "date": 1686373356588,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-10-11-error.log",
+            "hash": "320f70927266696b8944b56a0d97d5588a3048fd82473cca6a13e9fafeb93eb7"
+        },
+        {
+            "date": 1686378801449,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-10-12-error.log",
+            "hash": "7860f81c74a1336aefd3f45dd157fec742cc74b3f397677e98c2ab24c708725a"
+        },
+        {
+            "date": 1686380469827,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-10-13-error.log",
+            "hash": "9da135a183c1cb523bbe54a71ec06422b4b31bc171e317985070a7f784c2de15"
+        },
+        {
+            "date": 1686391509987,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-10-16-error.log",
+            "hash": "d38c69999643410eb95706d23f09b1081527958e3b418fdd38bd742626038ac1"
+        },
+        {
+            "date": 1686531388382,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-12-06-error.log",
+            "hash": "dfe668f93e7dfa0ee819e4b374f07bd6e338d2092d555f266b26958624a9cc7f"
+        },
+        {
+            "date": 1686532808266,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-12-07-error.log",
+            "hash": "dff5b370eb581e5954eeb9e1f32c025bf081b7acb88cd0ffb36a27d7d9d9cefc"
+        },
+        {
+            "date": 1686539713030,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-12-09-error.log",
+            "hash": "6d10137822da5e57575db3d14bb27b664d8c28314f943e51a223db3a20786be5"
+        },
+        {
+            "date": 1686556204461,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-12-13-error.log",
+            "hash": "3d494f2c7044dbd6da691a2f5f45faed9f4424a69e4b3164223eee32d83f1719"
+        },
+        {
+            "date": 1686562497221,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-12-15-error.log",
+            "hash": "7d7a892edc4a08279aa2ee4e3c75fd31f7e383850b8297217b2bd222243fccec"
+        },
+        {
+            "date": 1686565340770,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-12-16-error.log",
+            "hash": "0c0206e623ac0e8d8ed42c0e2c20e0e1875e777820f8157fa8ad7fa6dd7c1887"
+        },
+        {
+            "date": 1686568455403,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-12-17-error.log",
+            "hash": "22cb7cb3fd843e85a3639b8c67602d1369d17833ffbc268368d26ad10b913ed0"
+        },
+        {
+            "date": 1686573933450,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-12-18-error.log",
+            "hash": "b916bc8dbfa6b2321531c6571011f065f75415f7b6f43e0c8ddff50a22581a88"
+        },
+        {
+            "date": 1686574836912,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-12-19-error.log",
+            "hash": "7f3688ff33a22f8c462818b4cff0d91e3dc60f926322e66b010e0eafc902f33f"
+        },
+        {
+            "date": 1686578862948,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-12-20-error.log",
+            "hash": "01efbb4c03444fed1e770bcf6a38c8175ab544d4795675e56d912685b8d6b927"
+        },
+        {
+            "date": 1686582153212,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-12-21-error.log",
+            "hash": "4b434cabdbd2c7092e304639500e587c0904da985514e35d3b99153b2af82769"
+        },
+        {
+            "date": 1686625486935,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-13-09-error.log",
+            "hash": "9dd493ecf9dfb57d4aba08d036fc2a7df700f34f4dd8105eb33400ba07981243"
+        },
+        {
+            "date": 1686631759139,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-13-10-error.log",
+            "hash": "09d3ff911c0edffeabbd27919ead9b298bb595587fea1e027b6eb06eef023f08"
+        },
+        {
+            "date": 1686632471001,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-13-11-error.log",
+            "hash": "aeb2530ca6c1c0b3583f3efd8c3a8c04f837f93c43891c324a0c62208874bc00"
+        },
+        {
+            "date": 1686636314012,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-13-12-error.log",
+            "hash": "3c6cc76c88ec88af921dbb270b518af6dfef0114bb54b5ebc6265f83953c6995"
+        },
+        {
+            "date": 1686640930637,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-13-13-error.log",
+            "hash": "afb1bbcc6c28695b891ec488feb11fa9c9a8546861b268589e5baf0ade4b7853"
+        },
+        {
+            "date": 1686643746440,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-13-14-error.log",
+            "hash": "19fe34ee4af0ca70d604089ab3372d3af4489e34e7587d2bc2b56f3bd36fde68"
+        },
+        {
+            "date": 1686666051326,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-13-20-error.log",
+            "hash": "2549b2fb48b3b56cf4c3cd0c864aa9f2df77425ffc55c3f0e51cf3e91d70b721"
+        },
+        {
+            "date": 1686668415988,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-13-21-error.log",
+            "hash": "38bf08af84de2d9f75cd390120441e460247250ecde00c63f6cf0f1085631f57"
+        },
+        {
+            "date": 1686719945556,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-14-11-error.log",
+            "hash": "62cada1da9912671f4f998d92e50a7fdf522b41a85b11337dcf85ac113d866ae"
+        },
+        {
+            "date": 1686722570950,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-14-12-error.log",
+            "hash": "afd54f97783360108fa6b7015519b2535c1bc6f931ed9f36e228416d4f1f745d"
+        },
+        {
+            "date": 1686726052276,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-14-13-error.log",
+            "hash": "a2d751a4ccc15390835e31bfbdd5cadc5746cd771da7b8f6eb227c6d4ee115b8"
+        },
+        {
+            "date": 1686751652472,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-14-20-error.log",
+            "hash": "4d32186639ebd1b313d3ed14d6267e5f8aecc81d7ce4332432b4962e82557b60"
+        },
+        {
+            "date": 1686755686508,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-14-21-error.log",
+            "hash": "2469b92108553628c7d0ec0d3f574cf6f972c25ffeafb7b7ebfd635172fc6912"
+        },
+        {
+            "date": 1686804272002,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-15-10-error.log",
+            "hash": "56780d0c2954230809c9d40d486b2a5a643ff2af06f7d14cb0dd67fa7561d4f7"
+        },
+        {
+            "date": 1686806595539,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-15-11-error.log",
+            "hash": "84380da5fbffe389db585d2d6bce3a5dd18e8e5e41d918e2fe4810046f0a8f6f"
+        },
+        {
+            "date": 1686808809214,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-15-12-error.log",
+            "hash": "3fa1048a035e0156461be7e5487bdd5ff6c475b157c005a14f32527f4427594c"
+        },
+        {
+            "date": 1686814166360,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-15-13-error.log",
+            "hash": "2ef7e269eacb7458b8a724e34d5ab8c146d1217066e5ecbcbc6530baffccd31e"
+        },
+        {
+            "date": 1686820229399,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-15-15-error.log",
+            "hash": "ed13fa5f3a73047f2682f678d3ef6a8e0887a02a79f7a7f7702b6ccbd66896a3"
+        },
+        {
+            "date": 1686823551864,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-15-16-error.log",
+            "hash": "3178d136514e8fd813fea66196f962bc3b651a561acd30dad259dc3bd1637f27"
+        },
+        {
+            "date": 1686836417002,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-15-19-error.log",
+            "hash": "f8e26177183ef4b0e5be342ebcd696f2c51b21a6991427ddd9490f6dc0e1d164"
+        },
+        {
+            "date": 1686837761713,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-15-20-error.log",
+            "hash": "6d201655d56243b9ee00beb8d0125101323074f935f146fade8bfac1e6cacdc1"
+        },
+        {
+            "date": 1686846658476,
+            "name": "F:\\PHero Level-2\\Milestone-3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-15-22-error.log",
+            "hash": "bfc7fcbbf8e494ebebb3ca00b1ad4182e0aeeda20c476a29e3d0f7ab85ce0535"
+        }
+    ],
+    "hashType": "sha256"
+}

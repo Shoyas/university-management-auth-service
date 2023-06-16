@@ -1,0 +1,56 @@
+
+    {
+        Date: Thu Jun 15 2023 
+        Time: 20:10:23 
+        Label: [DANGER] 
+        Level: error: Failed to connect database... connect ETIMEDOUT 34.206.129.197:27017
+    }
+    
+
+    {
+        Date: Thu Jun 15 2023 
+        Time: 20:35:52 
+        Label: [DANGER] 
+        Level: error: globalErrorHandler+=+=+= Cannot read properties of null (reading 'year')
+    }
+    
+
+    {
+        Date: Thu Jun 15 2023 
+        Time: 20:36:10 
+        Label: [DANGER] 
+        Level: error: globalErrorHandler+=+=+= Cannot read properties of null (reading 'year')
+    }
+    
+
+    {
+        Date: Thu Jun 15 2023 
+        Time: 20:38:8 
+        Label: [DANGER] 
+        Level: error: globalErrorHandler+=+=+= Cannot read properties of null (reading 'year')
+    }
+    
+
+    {
+        Date: Thu Jun 15 2023 
+        Time: 20:47:3 
+        Label: [DANGER] 
+        Level: error: globalErrorHandler+=+=+= Cast to ObjectId failed for value "230300001" (type string) at path "_id" for model "Student"
+    }
+    
+
+    {
+        Date: Thu Jun 15 2023 
+        Time: 20:47:44 
+        Label: [DANGER] 
+        Level: error: globalErrorHandler+=+=+= Cast to ObjectId failed for value "230300001" (type string) at path "_id" for model "Student"
+    }
+    
+
+    {
+        Date: Thu Jun 15 2023 
+        Time: 20:49:32 
+        Label: [DANGER] 
+        Level: error: globalErrorHandler+=+=+= Cast to ObjectId failed for value "230300001" (type string) at path "_id" for model "Student"
+    }
+    

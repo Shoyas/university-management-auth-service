@@ -1,0 +1,16 @@
+
+    {
+        Date: Sat Jun 10 2023 
+        Time: 11:2:36 
+        Label: [DANGER] 
+        Level: error: globalErrorHandler+=+=+= Academic Semester is already exist
+    }
+    
+
+    {
+        Date: Sat Jun 10 2023 
+        Time: 11:2:52 
+        Label: [DANGER] 
+        Level: error: globalErrorHandler+=+=+= Invalid Semester Code
+    }
+    

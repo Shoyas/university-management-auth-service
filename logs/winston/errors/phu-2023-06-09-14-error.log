@@ -1,0 +1,91 @@
+
+    {
+        Date: Fri Jun 09 2023 
+        Time: 14:12:11 
+        Label: [DANGER] 
+        Level: error: Academic Semester is already exist
+    }
+    
+
+    {
+        Date: Fri Jun 09 2023 
+        Time: 14:13:7 
+        Label: [DANGER] 
+        Level: error: Academic Semester is already exist
+    }
+    
+
+    {
+        Date: Fri Jun 09 2023 
+        Time: 14:14:38 
+        Label: [DANGER] 
+        Level: error: Academic Semester is already exist
+    }
+    
+
+    {
+        Date: Fri Jun 09 2023 
+        Time: 14:16:1 
+        Label: [DANGER] 
+        Level: error: Academic Semester is already exist
+    }
+    
+
+    {
+        Date: Fri Jun 09 2023 
+        Time: 14:16:53 
+        Label: [DANGER] 
+        Level: error: Academic Semester is already exist
+    }
+    
+
+    {
+        Date: Fri Jun 09 2023 
+        Time: 14:17:31 
+        Label: [DANGER] 
+        Level: error: Academic Semester is already exist
+    }
+    
+
+    {
+        Date: Fri Jun 09 2023 
+        Time: 14:25:34 
+        Label: [DANGER] 
+        Level: error: Academic Semester is already exist
+    }
+    
+
+    {
+        Date: Fri Jun 09 2023 
+        Time: 14:29:10 
+        Label: [DANGER] 
+        Level: error: Academic Semester is already exist
+    }
+    
+
+    {
+        Date: Fri Jun 09 2023 
+        Time: 14:32:50 
+        Label: [DANGER] 
+        Level: error: globalErrorHandler+=+=+= [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+    }
+    
+
+    {
+        Date: Fri Jun 09 2023 
+        Time: 14:51:21 
+        Label: [DANGER] 
+        Level: error: Academic Semester is already exist
+    }
+    

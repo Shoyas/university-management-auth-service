@@ -1,0 +1,56 @@
+
+    {
+        Date: Sat Jun 10 2023 
+        Time: 16:15:9 
+        Label: [DANGER] 
+        Level: error: globalErrorHandler+=+=+= Cast to ObjectId failed for value "64840409b9c23338cd070" (type string) at path "_id" for model "AcademicSemester"
+    }
+    
+
+    {
+        Date: Sat Jun 10 2023 
+        Time: 16:24:16 
+        Label: [DANGER] 
+        Level: error: globalErrorHandler+=+=+= Cast to ObjectId failed for value "64840409b9c23338cd070" (type string) at path "_id" for model "AcademicSemester"
+    }
+    
+
+    {
+        Date: Sat Jun 10 2023 
+        Time: 16:24:33 
+        Label: [DANGER] 
+        Level: error: globalErrorHandler+=+=+= Cast to ObjectId failed for value "64840409b9c23338cd070" (type string) at path "_id" for model "AcademicSemester"
+    }
+    
+
+    {
+        Date: Sat Jun 10 2023 
+        Time: 16:24:35 
+        Label: [DANGER] 
+        Level: error: globalErrorHandler+=+=+= Cast to ObjectId failed for value "64840409b9c23338cd070" (type string) at path "_id" for model "AcademicSemester"
+    }
+    
+
+    {
+        Date: Sat Jun 10 2023 
+        Time: 16:25:27 
+        Label: [DANGER] 
+        Level: error: globalErrorHandler+=+=+= Cast to ObjectId failed for value "64840409b9c23338cd070" (type string) at path "_id" for model "AcademicSemester"
+    }
+    
+
+    {
+        Date: Sat Jun 10 2023 
+        Time: 16:25:50 
+        Label: [DANGER] 
+        Level: error: globalErrorHandler+=+=+= Cast to ObjectId failed for value "64840409b9c23338cd" (type string) at path "_id" for model "AcademicSemester"
+    }
+    
+
+    {
+        Date: Sat Jun 10 2023 
+        Time: 16:27:34 
+        Label: [DANGER] 
+        Level: error: globalErrorHandler+=+=+= Cast to ObjectId failed for value "64840409b9c23338cd" (type string) at path "_id" for model "AcademicSemester"
+    }
+    

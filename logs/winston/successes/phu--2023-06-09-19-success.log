@@ -1,0 +1,32 @@
+
+    {
+        Date: Fri Jun 09 2023 
+        Time: 19:50:41 
+        Label: [Right situation] 
+        Level: info: Database is connected...
+    }
+    
+
+    {
+        Date: Fri Jun 09 2023 
+        Time: 19:50:41 
+        Label: [Right situation] 
+        Level: info: Application is listening on port 5000
+    }
+    
+
+    {
+        Date: Fri Jun 09 2023 
+        Time: 19:59:46 
+        Label: [Right situation] 
+        Level: info: Database is connected...
+    }
+    
+
+    {
+        Date: Fri Jun 09 2023 
+        Time: 19:59:46 
+        Label: [Right situation] 
+        Level: info: Application is listening on port 5000
+    }
+    

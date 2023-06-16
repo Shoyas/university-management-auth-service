@@ -1,0 +1,27 @@
+
+    {
+        Date: Thu Jun 08 2023 
+        Time: 7:52:7 
+        Label: [DANGER] 
+        Level: error: globalErrorHandler+=+=+= [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+    }
+    
+
+    {
+        Date: Thu Jun 08 2023 
+        Time: 7:53:51 
+        Label: [DANGER] 
+        Level: error: globalErrorHandler+=+=+= User validation failed: role: Path `role` is required.
+    }
+    

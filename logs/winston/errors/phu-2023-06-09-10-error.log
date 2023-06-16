@@ -1,0 +1,61 @@
+
+    {
+        Date: Fri Jun 09 2023 
+        Time: 10:25:26 
+        Label: [DANGER] 
+        Level: error: globalErrorHandler+=+=+= [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+    }
+    
+
+    {
+        Date: Fri Jun 09 2023 
+        Time: 10:32:0 
+        Label: [DANGER] 
+        Level: error: globalErrorHandler+=+=+= [
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "string",
+    "path": [
+      "body",
+      "year"
+    ],
+    "message": "Expected number, received string"
+  }
+]
+    }
+    
+
+    {
+        Date: Fri Jun 09 2023 
+        Time: 10:37:28 
+        Label: [DANGER] 
+        Level: error: globalErrorHandler+=+=+= [
+  {
+    "received": "05",
+    "code": "invalid_enum_value",
+    "options": [
+      "01",
+      "02",
+      "03"
+    ],
+    "path": [
+      "body",
+      "code"
+    ],
+    "message": "Invalid enum value. Expected '01' | '02' | '03', received '05'"
+  }
+]
+    }
+    
